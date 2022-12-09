@@ -3,8 +3,8 @@
  */
 package adventofcode2022
 
-import adventofcode2022.day07.solutionDay07Part1
-import adventofcode2022.day07.solutionDay07Part2
+import adventofcode2022.day08.solutionDay08Part1
+import adventofcode2022.day08.solutionDay08Part2
 
 fun main() {
 //    solutionDay01Part1()
@@ -13,7 +13,6 @@ fun main() {
 //    solutionDay02Part2()
 //    solutionDay03Part1()
 //    solutionDay03Part2()
-    solutionDay07Part1()
-    solutionDay07Part2()
-
+    solutionDay08Part1()
+    solutionDay08Part2()
 }
