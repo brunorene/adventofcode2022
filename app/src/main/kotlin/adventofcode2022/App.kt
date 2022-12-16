@@ -3,10 +3,10 @@
  */
 package adventofcode2022
 
-import adventofcode2022.day13.solutionDay13Part1
-import adventofcode2022.day13.solutionDay13Part2
+import adventofcode2022.day14.solutionDay14Part1
+import adventofcode2022.day14.solutionDay14Part2
 
 fun main() {
-    solutionDay13Part1()
-    solutionDay13Part2()
+    solutionDay14Part1()
+    solutionDay14Part2()
 }
